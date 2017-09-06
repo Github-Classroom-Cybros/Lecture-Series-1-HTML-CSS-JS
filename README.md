@@ -7,12 +7,7 @@ Python Lecture Series    ![DUB](https://img.shields.io/dub/l/vibe-d.svg?style=fl
 
 
 #### Repository contains reference material for Cybros Lecture Series on  HTML,CSS,JS.
-  * [Curated Python Resources 1](https://github.com/Cybros/Lecture-Series-Python/tree/master/Python_Resources_1)
-  * [Curated Python Resources 2](https://github.com/Cybros/Lecture-Series-Python/tree/master/Python_Resources_2)
-
-##
-
-### Credits
+#### Credits
 
 * HTML, CSS and JavaScript by The Hong Kong University of Science and Technology Coursera.
 
