@@ -1,18 +1,14 @@
 
 ![Cybros](https://github.com/phunsukwangdu/image/blob/master/cybros.jpg)
 
-Python Lecture Series    ![DUB](https://img.shields.io/dub/l/vibe-d.svg?style=flat) [![Join the chat](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg)](https://gitter.im/LNMIIT-Computer-Club/Lobby)
+## Lecture Series on  HTML,CSS,JS ![DUB](https://img.shields.io/dub/l/vibe-d.svg?style=flat) [![Join the chat](https://img.shields.io/badge/gitter-join%20chat%20%E2%86%92-brightgreen.svg)](https://gitter.im/LNMIIT-Computer-Club/Lobby)
 ======================
 
 
 
 #### Repository contains reference material for Cybros Lecture Series on  HTML,CSS,JS.
-  * [Curated Python Resources 1](https://github.com/Cybros/Lecture-Series-Python/tree/master/Python_Resources_1)
-  * [Curated Python Resources 2](https://github.com/Cybros/Lecture-Series-Python/tree/master/Python_Resources_2)
 
-##
-
-### Credits
+#### Credits
 
 * HTML, CSS and JavaScript by The Hong Kong University of Science and Technology Coursera.
 
