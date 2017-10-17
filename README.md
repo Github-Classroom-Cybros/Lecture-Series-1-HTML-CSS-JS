@@ -19,3 +19,7 @@
 #### Study Resources
 
 * <a href="https://goo.gl/sfyLgz">A Comple Lecture Series on HTML</a>
+
+* <a href="http://goo.gl/Sgk7Cg">Html 5 and CSS 3 Lecture Series by doing it.</a>
+
+* <a href="https://goo.gl/ZsEpnN">Some Extras</a>
