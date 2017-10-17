@@ -8,8 +8,6 @@
 
 #### Repository contains reference material for Cybros Lecture Series on  HTML,CSS,JS.
 #### Credits
-*<a href="https://goo.gl/sfyLgz">A Comple Lecture Series on HTML</a>
-
 * HTML, CSS and JavaScript by The Hong Kong University of Science and Technology Coursera.
 
 * Jon Duckett - <a href="https://github.com/Cybros/Lecture-Series-1-HTML-CSS-JS/tree/master/Other%20Resources/Duckett%20Handbooks">Duckett Handbooks</a>
@@ -17,3 +15,7 @@
 * Cody Lindley - <a href="https://github.com/Cybros/Lecture-Series-1-HTML-CSS-JS/tree/master/Other%20Resources/Gitbook%20Resources">Gitbook Resources</a>
 
 * Marijn Haverbeke - <a href="https://github.com/Cybros/Lecture-Series-1-HTML-CSS-JS/tree/master/Other%20Resources/Eloquent_JavaScript.pdf">Eloquent JavaScript</a>
+
+#### Study Resources
+
+* <a href="https://goo.gl/sfyLgz">A Comple Lecture Series on HTML</a>
