@@ -16,3 +16,4 @@
 * Cody Lindley - <a href="https://github.com/Cybros/Lecture-Series-1-HTML-CSS-JS/tree/master/Other%20Resources/Gitbook%20Resources">Gitbook Resources</a>
 
 * Marijn Haverbeke - <a href="https://github.com/Cybros/Lecture-Series-1-HTML-CSS-JS/tree/master/Other%20Resources/Eloquent_JavaScript.pdf">Eloquent JavaScript</a>
+
